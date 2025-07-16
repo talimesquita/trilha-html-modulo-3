@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página Principal</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="img/wikipedia.jpg" width="100" alt="Logo Wikipédia">
+    </div>
+  </header>
+
+  <div class="bar"></div>
+
+  <div class="content">
+    <!-- Sidebar -->
+    <nav class="sidebar" aria-label="Navegação lateral">
+      <h2>Séries e Games</h2>
+
+      <h3>Séries</h3>
+      <ul>
+        <li><a href="#breaking">Breaking Bad</a></li>
+        <li><a href="#senna">Senna</a></li>
+        <li><a href="#lacasa">La Casa de Papel</a></li>
+      </ul>
+
+      <h3>Games</h3>
+      <ul>
+        <li><a href="#cyber">Cyberpunk</a></li>
+        <li><a href="#gta">GTA</a></li>
+        <li><a href="#stellar">Stellar Blade</a></li>
+      </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main">
+     <section id="breaking" aria-labelledby="title-breaking">
+        <h2 id="title-breaking">Breaking Bad</h2><br>
+
+        <figure style="float:right; margin:0 0 10px 10px; width:400px;">
+          <img src="Breaking_Bad_logo.svg.png" alt="Cartaz da série Breaking Bad" style="width:100%;">
+          <figcaption>Cartaz oficial da série Breaking Bad</figcaption>
+        </figure>
+
+        <p><strong>Breaking Bad</strong> é uma série dramática americana criada por Vince Gilligan. A história acompanha Walter White, um professor de química que, ao ser diagnosticado com câncer terminal, começa a produzir e vender metanfetamina para garantir o futuro financeiro de sua família.</p>
+        <p>A série é conhecida por sua narrativa intensa, personagens complexos e reviravoltas memoráveis, sendo considerada uma das maiores séries da televisão.</p><br>
+
+        <h3>Elenco e Personagens</h3><br>
+
+        <figure>
+          <img src="1050px-PaleyFest_2010_-_Breaking_Bad.jpg" width="300" alt="Elenco de Breaking Bad reunido" style="clear: both;">
+          <figcaption><strong>Equipe e elenco de Breaking Bad:</strong> Vince Gilligan, RJ Mitte, Aaron Paul, Anna Gunn, Bryan Cranston, Dean Norris e Mark Johnson.</figcaption>
+        </figure><br><hr>
+     </section>
+
+     <section id="senna" aria-labelledby="title-senna" style="clear:both; margin-top:40px;">
+         <h2 id="title-senna">Senna</h2><br>
+
+         <figure style="float:right; margin:0 0 10px 10px; width:400px;">
+             <img src="Senna-Netflix-2.webp" alt="Ayrton Senna no carro de Fórmula 1" width=100%;">
+            <figcaption>Foto de Ayrton Senna na Fórmula 1</figcaption>
+         </figure>
+        <p><strong>Senna</strong> é uma minissérie biográfica de drama lançada em 29 de novembro de 2024 na Netflix. Criada e dirigida por Vicente Amorim (com direção também de Júlia Rezende), a série de seis episódios que acompanha a trajetória do tricampeão Ayrton Senna — desde o kart até a rivalidade com Alain Prost e o trágico acidente em Ímola — e contou com um orçamento de cerca de 170 milhões, Gabriel Leone interpreta Senna, ao lado de Alice Wegmann, Pâmela Tomé, Julia Foti e Camila Márdila.
+        </p><br>
+
+        <h3>Elenco</h3>
+        <figure>
+            <img src="senna elenco.jpg" alt="Foto como elento da minissérie Senna." width="300">
+            <figcaption>Gabriel Leone interpreta Ayrton Senna. Outros nomes incluem Alice Wegmann (Lílian), Pâmela Tomé (Xuxa), Julia Foti (Adriane Galisteu), Camila Márdila (Viviane Senna)</figcaption><br>
+        </figure><br><hr>
+     </section>
+
+     <section id="lacasa" aria-labelledby="title-lacasa" style="clear:both; margin-top:40px;">
+        <h2 id="title-lacasa">La Casa de Papel</h2>
+
+        <figure style="float:right; margin:0 0 10px 10px; width:400px;">
+          <img src="lacasa.jpg" alt="Personagens de La Casa de Papel com máscaras de Salvador Dalí" style="width:100%;">
+          <figcaption>Personagens principais com as famosas máscaras</figcaption>
+        </figure>
+
+        <p>A série acompanha um assalto <i>à Casa da Moeda da Espanha, </i> por um homem conhecido como "O Professor". Ele recruta uma equipe com habilidades específicas para imprimir 2,4 bilhões de euros em 11 dias.</p>
+        <br>
+
+         <h3>Filmagens</h3><br>
+
+         <figure>
+          <img src="Edificio_central_del_CSIC_(Madrid)_02.jpg" alt="Prédio usado como Casa da Moeda da Espanha" width="300" style="clear:both;">
+          <figcaption>Conselho Superior de Investigações Científicas – cenário principal das partes 1 e 2.</figcaption>
+        </figure>
+
+        <figure>
+             <img src="500px-Nuevos_Ministerios_(Madrid)_11.jpg" alt="Banco Central da Espanha usado na parte 3" width="300" style="clear:both;">
+                 <figcaption>Nuevos Ministerios – usado como Banco Central da Espanha nas partes seguintes.</figcaption>
+        </figure><br>
+
+         <p>As partes 1 e 2 foram filmadas em Madrid. O episódio piloto foi gravado em 26 dias. Cenas externas foram feitas na sede do CSIC, que se assemelha à Casa da Moeda. O telhado da Escola de Engenheiros Aeronáuticos foi usado em cenas de fuga. Sets internos foram destruídos após o final da parte 2.</p>
+         <br>
+
+         <h3>Elenco</h3><br>
+
+         <figure>
+             <img src="elenco casa.jpg" alt="Foto com elenco da serie La Casa de Papel." width="300">
+                 <figcaption>A série La Casa de Papel conta com um elenco principal marcante: Úrsula Corberó como a narradora e protagonista Tóquio, Álvaro Morte no papel do gênio por trás do plano (o Professor), Itziar Ituño como a inspetora Raquel Murillo que se torna Lisboa, Pedro Alonso interpreta Berlim, o sofisticado irmão do Professor, Miguel Herrán é o hacker Rio, Jaime Lorente faz o rebelde Denver, Alba Flores dá vida à contrafortista Nairóbi, Darko Perić interpreta Helsinque, Esther Acebo é Estocolmo, Enrique Arce é o infame Arturito, e Paco Tous interpreta Moscou, o pai de Denver e ex-mineiro.</figcaption>
+         </figure><br><hr>
+        
+     </section><br>
+         
+
+    <section id="cyber" aria-labelledby="title-cyber">
+        <h2 id="title-cyber">Cyberpunk 2077</h2><br>
+
+        <figure style="float:right; margin:0 0 10px 10px; width:400px;">
+            <img src="cyber.jpg" alt="Capa do jogo Cyberpunk 2077" width="300">
+            <figcaption>Capa promocional de Cyberpunk 2077</figcaption>
+        </figure>
+
+        <p><strong>Cyberpunk 2077</strong> é um RPG de ação desenvolvido pela CD Projekt Red, lançado em 2020. O jogo se passa na distópica Night City, um mundo futurista onde tecnologia e crime se misturam. Você joga como V, um mercenário em busca de um implante que promete a imortalidade.</p>
+            
+    <p>Cyberpunk de cyber(netic) + punk é um subgênero alternativo de ficção científica, conhecido por seu enfoque de "alta tecnologia e baixa qualidade de vida" ("High tech, Low life") e toma seu nome da combinação de cibernética e punk alternativo.</p><br>
+    <p>É como se a vida neste futuro distópico fosse um fliperama, dos anos 80/90, sujo, cheio de maloqueiros e máquinas barulhentas, com o ar cheirando a cigarro e poluição, mas que hipnotiza seus moradores com promessas fantásticas de alta tecnologias. Mescla ciência avançada, como as tecnologias de informação e a cibernética junto com algum grau de desintegração ou mudança radical no sistema civil vigente. O termo foi criado em 1980, pelo escritor <i>Bruce Bethke</i>, para o seu conto "Cyberpunk", que entretanto só seria publicada em novembro de 1983, em Amazing Science Fiction Stories, Volume 57, Número 4.</p><br>
+    <p><i>De acordo com Lawrence Person:</i></p>
+        <blockquote>Os personagens do cyberpunk clássico são seres marginalizados, distanciados, solitários, que vivem à margem da sociedade, geralmente em futuros distópicos onde a vida diária é impactada pela rápida mudança tecnológica, uma atmosfera de informação computadorizada ambígua e a modificação invasiva do corpo humano.</blockquote><br>
+            
+     <h3>Jogabilidade</h3>
+     <figure>
+        <img src="Cyberpunk-2077-ps4.jpg" alt="Foto do cyberpunk 2077 em que é jogado numa perspectiva em primeira pessoa." width="300" style="clear:both;">
+    </figure>
+    <figcaption><i>Cyberpunk 2077</i> é jogado numa perspectiva em primeira pessoa</figcaption><br>
+     <p> Um jogo eletrônico de RPG de ação jogado numa perspectiva em primeira pessoa na pele de V (Vincent/Valerie), um mercenário cuja voz, rosto, estilo de cabelo, tipo de corpo e modificações, história de origem e roupas são personalizáveis. As categorias de estatísticas – Corpo, Inteligência, Reflexos, Habilidade Técnica e Moral – são diretamente influenciadas pelas classes de personagens que os jogadores assumem, sendo estas NetRunner (hacking), Techie (maquinário) e Solo (combate).</p><br><hr>
+   
+        
+</section>
+
+<section id="gta" aria-labelledby="title-gta" style="clear:both; margin-top:40px;">
+  <h2 id="title-gta">Grand Theft Auto (GTA)</h2><br>
+
+  <figure style="float:right; margin:0 0 10px 10px; width:400px;">
+    <img src="gta.jpg" alt="Imagem promocional da série GTA" width="300">
+    <figcaption>Imagem promocional de Grand Theft Auto V</figcaption>
+  </figure>
+  <p>
+    <strong>GTA</strong> (Grand Theft Auto) é uma franquia de jogos de mundo aberto criada pela Rockstar Games. Os jogos combinam narrativa criminal, exploração urbana e liberdade total para o jogador.
+  </p>
+  <p>
+    O título mais conhecido, <em>GTA V</em>, lançado em 2013, é um dos jogos mais vendidos da história e oferece uma experiência completa com três protagonistas jogáveis, multiplayer online e um vasto mundo interativo.
+  </p><br>
+  <p>Os jogos são desenvolvidos principalmente pela desenvolvedora britânica <i>Rockstar North</i> (antiga DMA Design) e publicados por sua empresa-mãe estadunidense, <i>Rockstar Games</i>. O título da série é um termo policial usado nos Estados Unidos para identificar roubos de automóveis.</p><br>
+  <p>A jogabilidade foca em um mundo aberto onde o jogador pode completar missões para progredir em uma história geral, bem como engajar em várias atividades secundárias. A maior parte da jogabilidade gira em torno de dirigir e atirar, com ocasionais elementos furtivos e role-playing.</p><br><hr>
+</section>
+
+<section id="stellar" aria-labelledby="title-stellar" style="clear:both; margin-top:40px;">
+  <h2 id="title-stellar">Stellar Blade</h2><br>
+
+  <figure style="float:right; margin:0 0 10px 10px; width:400px;">
+    <img src="stellar.jpg" alt="Imagem da protagonista do jogo Stellar Blade" width="300">
+    <figcaption>Imagem da personagem Eve em Stellar Blade</figcaption><br>
+  </figure>
+
+  <p><strong>Stellar Blade</strong> é um jogo de ação exclusivo para PlayStation 5, desenvolvido pela Shift Up. O jogador controla Eve, uma guerreira enviada para recuperar a Terra após a queda da civilização.</p>
+  <p>desenvolvido pela Shift Up e publicado pela Sony Interactive Entertainment. Foi lançado para PlayStation 5 em 26 de abril de 2024. Após o lançamento, o jogo recebeu críticas positivas da crítica.</p>
+  <p>Com foco em combates rápidos e visuais impressionantes, o jogo mistura ficção científica e estética pós-apocalíptica, recebendo elogios pela jogabilidade fluida e gráficos detalhados.</p><br>
+
+  <h3>Jogabilidade</h3><br>
+  <p>Stellar Blade é um videogame de ação e aventura ambientado em uma Terra pós-apocalíptica e jogado em uma perspectiva de terceira pessoa. O combate se concentra em compreender os padrões de ataque dos inimigos e contra-atacar com tempo preciso. O medidor Beta de Eve é preenchido com aparas e evasões em combate. O Beta Gauge é gasto para usar habilidades como perfurar super armaduras e interromper combos inimigos.</p><br>
+  <p>Eve também possui um Burst Gauge preenchido por meio de aparas e combos sucessivos, que pode ser usado para ativar buffs e ataques poderosos. O jogo utiliza o feedback tátil do controlador DualSense do PlayStation 5 para fornecer feedback sobre os ataques inimigos e a precisão das armas.</p><br>
+  <p> A exploração apresenta escalar paredes e balançar em cordas para percorrer o ambiente, com itens a serem encontrados, incluindo fantasias extras. O mundo superior tem NPCs que podem fornecer missões secundárias a Eve, com a opção de assumi-las ou ignorá-las.</p><br><hr>
+</section>
+
+    </main>
+
+    <!-- Anchors -->
+    <aside class="anchors" aria-label="Navegação no artigo">
+      <h2>Neste Artigo</h2>
+         <ul>
+         <li><a href="#breaking">Breaking Bad</a></li>
+         <li><a href="#senna">Senna</a></li>
+         <li><a href="#lacasa">La Casa de Papel</a></li>
+         <li><a href="#cyber">Cyberpunk 2077</a></li>
+         <li><a href="#gta">GTA</a></li>
+         <li><a href="#stellar">Stellar Blade</a></li>
+         </ul>
+    </aside>
+  </div>
+
+  <footer class="footer">
+    <p>&copy; 2025 - Página de Séries e Games</p>
+  </footer>
+</body>
+</html>
